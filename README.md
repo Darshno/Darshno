@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Darshno
-- 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... Aiml course 
+- 👀 I’m interested in ... dk 
+- 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ... projects like making games and stuff
-- 📫 How to reach me ... you cant text me anytime 
+- 📫 How to reach me ... insta 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i'm a fast learner 
+- ⚡ Fun fact: ... LMAO 
 
 <!---
 Darshno/Darshno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
